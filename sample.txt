@@ -1,2 +1,2 @@
 user=Rahul
-
+pass = 12345678
