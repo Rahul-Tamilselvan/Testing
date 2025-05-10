@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: sample.txt
+  checksum: c264b1e6a9a4493e4a0c6ed96440105db8005eb1e3588757b81e87cfd40630aa
+version: "1.0"
+
